@@ -133,7 +133,7 @@ const LayoutFlow = () => {
             id: motherId,
             name: "New Mother",
             isSpouse: true,
-            children: [newId],
+            children: [],
           };
           newTree[nodeId] = {
             ...newTree[nodeId],
